@@ -1,0 +1,1 @@
+module.exports = (msg, status) => ({ message: msg, statusCode: status });
